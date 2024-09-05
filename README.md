@@ -12,7 +12,7 @@
 
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img align="center" alt="Javascript" src= "https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript">
+<img align="center" alt="Javascript" src= "https://img.shields.io/badge/JAVA%20%20SCRIPT-grey?style=for-the-badge&logo=javascript">
 
 
 </div><br/>
