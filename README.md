@@ -1,7 +1,3 @@
-
-
----
-
 ### Olá, eu sou o Felipe Silva ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-pires-07bb44233/)
@@ -15,12 +11,22 @@
 
 ## 🛠 Tecnologias e Ferramentas
 
-### 📱 Mobile Development
+### 🧪 Quality Assurance & Test Automation
 <div style="display: inline_block">
-  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+  <img align="center" alt="Karate DSL" src="https://img.shields.io/badge/Karate%20DSL-000000?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img align="center" alt="Rest Assured" src="https://img.shields.io/badge/Rest--Assured-6DB33F?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
-### 🌐 Frontend Development
+### 📊 Qualidade, Processos e Observabilidade
+<div style="display: inline_block">
+  <img align="center" alt="Allure Reports" src="https://img.shields.io/badge/Allure%20Reports-E6007A?style=for-the-badge&logo=allure&logoColor=white">
+  <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+</div>
+
+### 🌐 Frontend
 <div style="display: inline_block">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -29,28 +35,17 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-### ⚙️ Backend Development
-<div style="display: inline_block">
-  <img align="center" alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
-
-### 🎮 Game Development
-<div style="display: inline_block">
-  <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-</div>
-
-### 🔧 Outras Ferramentas
+### 🔧 Versionamento e CI/CD
 <div style="display: inline_block">
   <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
-</div><br/>
+
+<br/>
 
 ---
 
-### Apaixonado por tecnologia e sempre disposto a aprender, amante de video games e novos desafios.
+### Apaixonado por qualidade de software, automação de testes e melhoria contínua, sempre buscando entregar produtos mais confiáveis e escaláveis.
 
 **Email para contato:** felipesilvapires14@gmail.com
 
@@ -58,5 +53,3 @@
 
 ### Principais Projetos
 [![Repositórios](https://img.shields.io/badge/Repositórios-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lipesilvapr?tab=repositories)
-
----
