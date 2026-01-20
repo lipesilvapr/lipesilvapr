@@ -11,7 +11,7 @@
 
 ## 🛠 Tecnologias e Ferramentas
 
-### 🧪 Quality Assurance & Test Automation
+### 🧪 Garantia de qualidade & Automação de testes
 <div style="display: inline_block">
   <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
